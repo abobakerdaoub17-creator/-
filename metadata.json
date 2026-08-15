@@ -1,0 +1,6 @@
+{
+  "name": "Wholesale Auto Parts App",
+  "description": "Wholesale auto parts management system with inventory tracking, invoicing, shipments from China, trips, and client debt management in Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
